@@ -1,4 +1,10 @@
+## Author
+**Vidhi Pandey**  
+Math Graduate | Aspiring Data Scientist | Python Enthusiast  
+🔗 [GitHub Profile](https://github.com/Vidhi-Pandey04)
+
 # 📝 To-Do List Organizer (Python + Tkinter)
+
 
 A simple and user-friendly desktop To-Do List application built using Python and Tkinter.  
 Organize your daily tasks with checkboxes, date-wise sorting, task filters, and persistent storage via JSON.
@@ -54,9 +60,12 @@ Open your terminal or command prompt and run:
 
 ```bash
 git clone https://github.com/Vidhi-Pandey04/ToDoListApp.git
+
 #### 2. Navigate to project dictionary
 cd ToDoListApp
+
 #### 3. Run the Application
+
 This will launch the GUI window. You can now:
 -Add tasks
 -Mark them complete/incomplete
@@ -65,7 +74,7 @@ This will launch the GUI window. You can now:
 
 ---
 
-#### Sample .json file :
+### Sample .json file :
 {
   "2025-06-18": [
     { "task": "Buy groceries", "completed": true },
@@ -74,12 +83,5 @@ This will launch the GUI window. You can now:
 }
 
 ---
-
----
-
-## 🙋‍♀️ Author
-**Vidhi Pandey**  
-Math Graduate | Aspiring Data Scientist | Python Enthusiast  
-🔗 [GitHub Profile](https://github.com/Vidhi-Pandey04)
 
 
